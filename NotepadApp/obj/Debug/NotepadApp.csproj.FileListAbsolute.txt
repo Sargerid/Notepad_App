@@ -1,0 +1,14 @@
+C:\Users\Artem Bobrov\source\repos\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe.config
+C:\Users\Artem Bobrov\source\repos\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe
+C:\Users\Artem Bobrov\source\repos\NotepadApp\NotepadApp\bin\Debug\NotepadApp.pdb
+C:\Users\Artem Bobrov\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.AssemblyReference.cache
+C:\Users\Artem Bobrov\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem Bobrov\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Form1.resources
+C:\Users\Artem Bobrov\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Properties.Resources.resources
+C:\Users\Artem Bobrov\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.GenerateResource.cache
+C:\Users\Artem Bobrov\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.CoreCompileInputs.cache
+C:\Users\Artem Bobrov\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.exe
+C:\Users\Artem Bobrov\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.pdb
+C:\Users\Artem Bobrov\source\repos\NotepadApp\NotepadApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Artem Bobrov\source\repos\NotepadApp\NotepadApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Artem Bobrov\source\repos\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.CopyComplete
